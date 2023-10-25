@@ -23,6 +23,7 @@ npm install
 List:
 1. [Save JSON Object to ```.json``` file](#1-save-json-object-to-json-file)
 2. [Generate Public and Private key pair](#2-generate-public-and-private-key-pair)
+2. [Basic Http Auth](#3-basic-http-auth)
 
 ---
 
