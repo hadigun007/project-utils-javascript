@@ -1,10 +1,8 @@
-import { saveToJson } from "./stringToJson"
-
-console.log('hello world')
+import {saveToJson} from './string_to_json'
 
 let data:Object = {
 "name":"hadi",
 "usia":24
 }
 
-saveToJson(data, 'contoh.json')
+saveToJson(data, 'result/contoh.json')

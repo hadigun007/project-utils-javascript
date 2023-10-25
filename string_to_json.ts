@@ -1,7 +1,6 @@
-const fs = require('fs');
+import fs from 'fs';
 
-
-export function saveToJson (data:Object, name:string) {
+export function saveToJson(data:Object, name:string) {
    
       const jsonData = JSON.stringify(data);
 
@@ -14,3 +13,4 @@ export function saveToJson (data:Object, name:string) {
       });
 
 }
+
