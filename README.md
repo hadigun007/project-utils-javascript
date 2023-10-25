@@ -12,7 +12,7 @@ git clone git@github.com:hadigun007/project-utils-javascript.git
 cd project-utils-javascript
 
 # Create Folder
-mkdir result
+mkdir result key
 
 # Instal npm package
 npm install
